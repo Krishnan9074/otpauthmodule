@@ -38,15 +38,5 @@ Add additional notes about how to deploy this on a live system.
 - [Next.js](https://nextjs.org/) - The web framework used
 - [Twilio](https://www.twilio.com/) - Used to generate and verify OTPs
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors
-
-- **Your Name** - *Initial work* - [Shivam Vishwakarma](https://github.com/shivamvishwakarm)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
